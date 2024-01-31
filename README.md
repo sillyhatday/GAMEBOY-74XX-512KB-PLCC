@@ -5,6 +5,10 @@ Using footprints from https://github.com/HDR Be sure to check out their designs 
 
 This is a more user friendly version of my other discrete logic cart. This uses a flash chip that can be programmed with FlashGBX. No need for UV eraser tools.
 
+## Photos
+
+![Gameboy 512KB Cart Discrete Logic PLCC Rev2](https://github.com/sillyhatday/GAMEBOY-74XX-512KB-PLCC/assets/65309612/cf5d6ac9-99bd-4fd6-8699-821561da8367)
+
 ## Game compatibility:
 
 Put simply if you want to run early Gameboy games this is the cartridge you need. It’s not the most practical of carts but it’s one of my earlier ideas and wanted to keep it. I got a bunch of EPROM for free so I put them to use. This lacks any save ability but can run the MBC1 games up to 512KB. I will not give this a compatibility rating as it is impractical for most people.
