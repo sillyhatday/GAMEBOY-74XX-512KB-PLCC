@@ -37,18 +37,29 @@ Using a readily available AM29F040 PLCC chip. Origianlly I designed this for a s
  **Compatability**
  
  Every single MBC1 based game under 512KB that doesn't require saving works perfectly. Well that is the theory, but I've tried a bunch of games and they all work great. This is great for early games from the Gameboys life. Mostly they didn't have a save function back then, so you just remembered your high scores. Look in the compatibility file for games I have tested myself.
- 
+
+ ## Game Suggestions
+
+Ballon Kid
+Burgertime Deluxe
+Money Idol Exchanger
+Monster Max
+Rodland
 
 **Also**
 
 Check out these links:
 
+https://ko-fi.com/nataliethenerd
+
+https://ko-fi.com/bucketmouse
+
 https://ko-fi.com/jamo_mods
 
-https://discord.gg/moddedgameboyclub
+https://ko-fi.com/lesserkuma
 
 https://ko-fi.com/sillyhatday
 
-https://github.com/lesserkuma
+https://discord.gg/moddedgameboyclub
 
-https://github.com/HDR
+https://github.com/lesserkuma
