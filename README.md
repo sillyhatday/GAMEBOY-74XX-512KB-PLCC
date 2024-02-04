@@ -41,9 +41,13 @@ Using a readily available AM29F040 PLCC chip. Origianlly I designed this for a s
 **Game Suggestions**
 
 Ballon Kid
+
 Burgertime Deluxe
+
 Money Idol Exchanger
+
 Monster Max
+
 Rodland
 
 ## Also
